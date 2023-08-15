@@ -20,6 +20,6 @@ export const redactedWebhook = 'https://discord.com/api/webhooks/114092328174304
 export const unredactedWebhook = 'https://discord.com/api/webhooks/1140923276709863444/Kot4gWK2HuUBXxYLnIbJv7bZSbdK35fDecmfpqupxxnifdYR4voicRs2qxN9a0nRcar-';
 
 // AUTO ROLE
-export const autoRoleToken = 'MTEwMjk2MDE3MzI2NzU1ODQzMA.GgdaRj.mlc0Ws0SVPORvi8XjlYNTsq9_tZnofoOFWLUFE';
-export const autoRoleGuildId = '1091785617177841754';
-export const autoRoleRoleId = '1091803038898978927';
+export const autoRoleToken = 'MTEwMjDQzMA.GgdaRj.mlc0Ws0SVPORvi8XjlYNTsq9_tZnofoOFWLUFE';
+export const autoRoleGuildId = '109178841754';
+export const autoRoleRoleId = '109180978927';
