@@ -1,5 +1,5 @@
 // SERVER DETAILS
-export const domain = 'aaaaaaaaa.deno.dev';
+export const domain = 'enter.deno.dev';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = true;
